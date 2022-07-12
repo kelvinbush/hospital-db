@@ -20,6 +20,12 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@kelvin_bush_](https://twitter.com/kelvin_bush_)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kelvin-wachiye-04b469173/)
 
+👤 **Jake Felice**
+
+- GitHub: [@jasonfelice](https://github.com/jasonfelice)
+- Twitter: [@jasonfelice0](https://twitter.com/jasonfelice0)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jason-felice-11a5a622b/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
