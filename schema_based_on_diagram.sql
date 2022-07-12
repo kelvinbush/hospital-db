@@ -67,3 +67,8 @@ ALTER TABLE medical_histories
 ALTER TABLE medical_histories
     ADD CONSTRAINT fk_patient
         FOREIGN KEY (patient_id) REFERENCES patients (id);
+
+create index patient_key_idx on medical_histories (patient_id asc);
+create index history_key_idx on invoices (medical_history_id asc);
+create index treatment_key_idx on histories_treatments (treatment_id asc);
+create index invoice_key_idx on invoice_items (invoice_id asc);
